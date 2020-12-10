@@ -1,0 +1,11 @@
+p {
+    font-family: 'Avenir', 'Arial Narrow', Arial, sans-serif;
+}
+
+div.content {
+    width: 50%; 
+    margin: auto; 
+    align-content: center;
+    font-family: 'Avenir', 'Arial Narrow', Arial, sans-serif; 
+    padding-top: 10px;
+}
