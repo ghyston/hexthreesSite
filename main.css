@@ -6,6 +6,18 @@ div.content {
     width: 50%; 
     margin: auto; 
     align-content: center;
-    font-family: 'Avenir', 'Arial Narrow', Arial, sans-serif; 
+    font-family: 'Avenir', monospace, Arial, sans-serif; 
     padding-top: 10px;
 }
+
+.flex-container {
+    display: flex;
+}
+
+.flex-child {
+    flex: 1;
+}  
+
+.flex-child:first-child {
+    margin-right: 20px;
+} 
